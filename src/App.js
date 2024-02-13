@@ -6,6 +6,7 @@ import Home from "./Pages/Home";
 import Recipe from "./Pages/Recipe";
 
 function App() {
+  // all routes are here
   return (
     <div className="App">
       <Navbar />
